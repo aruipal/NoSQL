@@ -35,6 +35,8 @@ colecciones y los une mediante identificadores, reduciendo la redundancia y
 facilitando las actualizaciones. No obstante, requiere consultas adicionales para
 recuperar la información.
 <pre><code id="codigo">db.autores.insertMany([ { _id: ObjectId("6601a1b2c3d4e5f678901234"), nombre: "Gabriel García Márquez", nacionalidad: "Colombiano" }, { _id: ObjectId("6601a1b2c3d4e5f678912345"), nombre: "J.K. Rowling", nacionalidad: "Británica" } ] )</code></pre>
+<pre><code id="codigo">db.libos.insertMany([ { titulo: "Cien años de soledad", año: 1967, autor_id:ObjectId("6601a1b2c3d4e5f678901234") }, { titulo: "Harry Potter y la piedra filosofal", año: 1997, autor_id: ObjectId("6601a1b2c3d4e5f678912345")}]) </code></pre>
+
 
 
 
