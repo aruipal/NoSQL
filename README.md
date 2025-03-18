@@ -6,4 +6,9 @@
 
 ### :point_right:	3️⃣:	[Modelado de datos en MongoDB.](https://github.com/aruipal/NoSQL/blob/main/Practica%203.md)
 
+### :point_right: :four::
+\
+\
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+[Escritura en Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
